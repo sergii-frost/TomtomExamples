@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TomtomExamples</string>
+    <string name="start_navigation">Start</string>
+    <string name="stop_navigation">Stop</string>
 </resources>
