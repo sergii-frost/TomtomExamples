@@ -11,8 +11,8 @@ API Response includes instructions which lead alongside highway `E4` and ask to 
 
 Here is what we get in API response for these 2 instructions: 
 
-![Tomtom Api json example]()
+![Tomtom Api json example](https://github.com/sergii-frost/TomtomExamples/blob/master/api-to-tomtom-model/assets/response-api-json.png)
 
 At same time when trying to access the same instructions as data models we can see that `roadNumbers` in instruction[14] and `exitNumber` in instruction[15] are both null, even though there are present in API response:
 
-![Tomtom Api data model example]()
+![Tomtom Api data model example](https://github.com/sergii-frost/TomtomExamples/blob/master/api-to-tomtom-model/assets/response-api-model.png)
