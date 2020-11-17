@@ -44,7 +44,7 @@ android {
 }
 
 ext {
-    tomtomVersion = "2.4369"
+    tomtomVersion = "2.4692"
     lifecycle_version = "2.1.0"
 }
 
